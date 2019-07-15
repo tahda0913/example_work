@@ -1,0 +1,11 @@
+﻿year_id,academic_subject,course_level,approaches_cut_scale_score,meets_cut_scale_score,masters_cut_scale_score,grade_level,title
+28,Mathematics,Grade 6,1536,1653,1772,6,6th Math
+28,Reading,Grade 6,1517,1629,1718,6,6th Reading
+28,Mathematics,Grade 7,1575,1688,1798,7,7th Math
+28,Reading,Grade 7,1567,1674,1753,7,7th Reading
+28,Writing,Grade 7,3550,4000,4602,7,7th Writing
+28,Mathematics,Grade 8,1595,1700,1854,8,8th Math
+28,Reading,Grade 8,1587,1700,1783,8,8th Reading
+28,Science,Grade 8,3550,4000,4406,8,8th Science
+28,Humanities,Grade 8,3550,4000,4268,8,8th Humanities
+28,Mathematics,Algebra 1,3550,4000,4333,,Algebra 1

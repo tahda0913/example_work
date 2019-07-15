@@ -1,0 +1,26 @@
+Instructions for Naviance CAS Decomposition:
+
+
+**NOTE** - This procedure assumes that someone has already edited the "college_stats_data_by_student" csv file send from 
+	   naviance to match the structure of the import template in this project folder. This csv should also be placed 
+	   in the "biweekly_naviance_files" folder.
+
+
+
+1. Copy and paste the following command into windows powershell terminal:
+
+cd 'S:\Student Data\Analysts\Projects\naviance_decomposition\College Acceptance Status'
+
+
+2. Write and execute powershell command according to following format:
+
+python main.py, (name of naviance csv file).csv
+
+**note: replace portion in parenthesis with the name of the csv file you intend to load into the database.
+
+
+3. Open the sql file in this folder titled "bi_weekly_naviance_merge" and execute it.
+
+
+Done!
+
